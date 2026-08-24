@@ -1,16 +1,32 @@
-## Hi there 👋
+# Yudhvir Singh
 
-<!--
-**yudhvir01/yudhvir01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | AI Systems | C++ 
 
-Here are some ideas to get you started:
+I build software systems and AI-powered applications,
+with a growing focus on intelligent agents, backend systems,
+and high-performance engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+
+- AI agents & LLM applications
+- RAG systems
+- Backend engineering
+- Data structures & algorithms
+- C++ and systems programming
+
+### Tech
+
+Python • C++ • TypeScript
+LLMs • RAG • AI Agents
+Laravel • APIs • SQL
+Git • Docker • Linux
+
+### Featured Projects
+
+[Project 1]
+[Project 2]
+[Project 3]
+
+### Currently Learning
+
+AI Engineering → Systems → Robotics
